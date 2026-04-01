@@ -8,7 +8,7 @@ Built as a showcase of how RAG works in practice using entirely free tools.
 
 ## Live demo
 
-> Ask questions about Christian Schmid's CV — try it at [your-app.streamlit.app](#)
+> Ask questions about Christian Schmid's CV — try it at [ragchristianschmid.streamlit.app](https://ragchristianschmid.streamlit.app)
 
 ---
 
