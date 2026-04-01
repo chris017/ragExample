@@ -10,6 +10,8 @@ Built as a showcase of how RAG works in practice using entirely free tools.
 
 > Ask questions about Christian Schmid's CV — try it at [ragchristianschmid.streamlit.app](https://ragchristianschmid.streamlit.app)
 
+![Architecture](architecture.svg)
+
 ---
 
 ## How it works
