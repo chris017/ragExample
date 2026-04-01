@@ -1,4 +1,5 @@
-![architecture](https://github.com/user-attachments/assets/1b314c28-ec5e-482f-9b6c-daad5ca92b3c)# RAG Chat — Ask Your Own Documents
+# RAG Chat — Ask Your Own Documents
+![architecture](https://github.com/user-attachments/assets/1b314c28-ec5e-482f-9b6c-daad5ca92b3c)
 
 A Retrieval-Augmented Generation (RAG) app that lets you chat with your own files. Drop any PDFs, text, or markdown files into `/docs`, index them once, and ask questions in a chat UI — the model answers using only what's in your documents.
 
